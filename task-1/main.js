@@ -8,7 +8,6 @@ prompt.get('input', function (err, result) {
     let sum = 0;
     let index = 0;
     let sum_division = 0; 
-
     for(let i=0; i<n.length; i++){
         sum+=parseInt(n[i]) //18
         index = n.length

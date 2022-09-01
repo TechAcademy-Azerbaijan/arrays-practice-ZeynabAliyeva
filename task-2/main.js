@@ -14,5 +14,5 @@ prompt.get('input', function (err, result) {
             count++
         }
     }
-        console.log(count);
+        console.log(count)
 });
